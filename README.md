@@ -6,6 +6,8 @@ This project is based on the [Google Bard Electron app.](https://github.com/mant
 
 This is a desktop app for [ester gambling](https://n1d3v.github.io/ester-gambling), a easy way to gamble on ester (with real moni /j).
 
+Note: This does not have working tax system in this version aka it means you don't have to pay them.
+
 ![Screenshot](https://raw.githubusercontent.com/matu6968/ester-gambling-electron/stable/screenshots/screenshot-1.png)
 
 ## Downloads
