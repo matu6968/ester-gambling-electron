@@ -12,9 +12,9 @@ Note: This does not have working tax system in this version aka it means you don
 
 ## Downloads
 
-- [Windows (106 MB)](https://github.com/matu6968/ester-gambling-electron/releases/download/1.2.1/ester-gambling-windows-1.3.0.zip)
-- [macOS (73 MB)](https://github.com/matu6968/ester-gambling-electron/releases/download/1.2.1/ester-gambling-darwin-1.3.0.zip)
-- [Linux (98 MB)](https://github.com/matu6968/ester-gambling-electron/releases/download/1.2.1/ester-gambling-linux-1.3.0.tar.xz)
+- [Windows (106 MB)](https://github.com/matu6968/ester-gambling-electron/releases/download/1.3.1/ester-gambling-windows-1.3.1.zip)
+- [macOS (73 MB)](https://github.com/matu6968/ester-gambling-electron/releases/download/1.3.1/ester-gambling-darwin-1.3.1.zip)
+- [Linux (98 MB)](https://github.com/matu6968/ester-gambling-electron/releases/download/1.3.1/ester-gambling-linux-1.3.1.tar.xz)
 
 ## Releases
 
